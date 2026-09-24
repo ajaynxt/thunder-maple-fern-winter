@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "TypeNxt",
+      "hasCanvas": false,
+      "bodyTextLen": 1201,
+      "bodyTextHash": "c6c19c6cd61ef59ad966b74a6ddbfd45fcd3171131a412993a9e0e83a749a0b9",
+      "bodyTextPrefix": "TypeNxt SPEED · EXAM · HINDI BSF English BSF Hindi Earn TYPING T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "TypeNxt",
+      "hasCanvas": false,
+      "bodyTextLen": 1179,
+      "bodyTextHash": "428f733143d2c93e01507daae445c44c5602dc64be63217a4ae33041cc1f364f",
+      "bodyTextPrefix": "TypeNxt SPEED · EXAM · HINDI Earn TYPING TRAINER Build speed. Ke",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
